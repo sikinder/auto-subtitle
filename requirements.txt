@@ -1,1 +1,4 @@
 openai-whisper
+ffmpeg-python
+tqdm
+psutil
